@@ -4,3 +4,4 @@ Author:lakshmi
 2)edit the app
 3)launch the app
 4)close the app
+5)hiding the last seen app
