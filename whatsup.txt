@@ -1,0 +1,6 @@
+Author:lakshmi 
+
+1)create the app
+2)edit the app
+3)launch the app
+4)close the app
