@@ -5,3 +5,5 @@ Author:lakshmi
 3)launch the app
 4)close the app
 5)hiding the last seen app
+6)audio call feature
+7)adding video call feature
